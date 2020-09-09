@@ -1,0 +1,4 @@
+#Wed Sep 09 15:28:31 CST 2020
+base.0=/Users/moon/Documents/17zuoye_workspace/AndroidDemo/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

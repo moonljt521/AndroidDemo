@@ -1,0 +1,14 @@
+
+Q
+java:S1133¹"5Do not forget to remove this deprecated code someday.(ŒŒÛ¢øÿÿÿÿ
+K
+java:S3740„"/Provide the parametrized type for this generic.(ˆÆ§Êúÿÿÿÿ
+X
+java:S1126¼"AReplace this if-then-else statement by a single return statement.(ÒÆ‹‹
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ùªÑø
+X
+java:S1126±"AReplace this if-then-else statement by a single return statement.(¥»ã
+D
+java:S1123¹"(Add the missing @deprecated Javadoc tag.(ŒŒÛ¢øÿÿÿÿ
+Q	java:S125v"<This block of commented-out lines of code should be removed.(õˆÔÜ
